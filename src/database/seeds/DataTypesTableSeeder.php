@@ -20,7 +20,7 @@ class DataTypesTableSeeder extends Seeder
                 'name'                  => 'careers',
                 'display_name_singular' => __('voyagercareers::seeders.data_types.career.singular'),
                 'display_name_plural'   => __('voyagercareers::seeders.data_types.career.plural'),
-                'icon'                  => 'voyager-documentation',
+                'icon'                  => 'voyager-dollar',
                 'model_name'            => Career::class,
                 'policy_name'           => CareerPolicy::class,
                 'controller'            => null,
